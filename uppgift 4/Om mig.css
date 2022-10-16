@@ -1,0 +1,27 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.detel {
+  margin-left: 8%;
+  margin-top: 13%;
+}
+
+.detel h1 {
+  font-size: 50px;
+  color: #212121;
+  margin-bottom: 20px;
+}
+
+span {
+  color: red;
+}
+
+.fact {
+  font-size: 30px;
+}
+
+.om_mig {
+  color: #212121;
+  margin-bottom: 20px;
+}
